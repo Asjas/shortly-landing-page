@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/pwa": "3.0.0-beta.20",
-    "@nuxtjs/sentry": "3.3.1",
+    "@nuxtjs/sentry": "4.3.5",
     "@nuxtjs/tailwindcss": "1.4.0",
     "nuxt": "2.11.0",
     "stylelint": "13.2.1",
@@ -20,6 +20,6 @@
     "vue-session": "1.0.0"
   },
   "devDependencies": {
-    "prettier": "1.19.1"
+    "prettier": "2.1.0"
   }
 }
