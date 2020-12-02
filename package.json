@@ -15,7 +15,7 @@
     "@nuxtjs/sentry": "4.5.0",
     "@nuxtjs/tailwindcss": "3.2.0",
     "nuxt": "2.14.7",
-    "stylelint": "13.7.2",
+    "stylelint": "13.8.0",
     "stylelint-config-recommended": "3.0.0",
     "vue-session": "1.0.0"
   },
