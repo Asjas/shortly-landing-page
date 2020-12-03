@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@cloudflare/kv-asset-handler@0.0.12":
-  version "0.0.12"
-  resolved "https://registry.yarnpkg.com/@cloudflare/kv-asset-handler/-/kv-asset-handler-0.0.12.tgz#4fc397912a0897a5cf8c0b5eb7c983b5e8b36979"
-  integrity sha512-3XCs9TRhQh/yUs1ST9cIMLB8C5c1JRKcDYTPJbAmcgI0kO2FPCSZz+kyNb9x25DuGQeqOMMwmxHPtiOfTki/Gw==
+"@cloudflare/kv-asset-handler@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@cloudflare/kv-asset-handler/-/kv-asset-handler-0.1.0.tgz#0febbf4ac6dd04d2c069405cffdcc7cf64b95494"
+  integrity sha512-sXZRw/Z5JJfi/nGh66SECSm5L2zomyf6f9O3nc5QOI11/R3W/4N+BPOecp/Dc8eL/q/Rwgb7lwhhjnqy8O5CYA==
   dependencies:
     "@cloudflare/workers-types" "^2.0.0"
     "@types/mime" "^2.0.2"
