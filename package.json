@@ -11,7 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxtjs/pwa": "3.3.3",
+    "@nuxtjs/pwa": "3.3.4",
     "@nuxtjs/sentry": "4.5.0",
     "@nuxtjs/tailwindcss": "3.4.2",
     "nuxt": "2.14.12",
