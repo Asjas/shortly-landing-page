@@ -1,9 +1,4 @@
 {
-  "name": "shortly-landing-page",
-  "version": "1.0.0",
-  "description": "My groundbreaking Nuxt.js project",
-  "author": "A-J Roos",
-  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
