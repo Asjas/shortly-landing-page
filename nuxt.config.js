@@ -1,5 +1,5 @@
 export default {
-  mode: "spa",
+  ssr: "false",
   head: {
     title: "Shortly Landing Page",
     meta: [
