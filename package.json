@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@nuxtjs/pwa": "3.3.5",
-    "@nuxtjs/sentry": "5.0.0",
+    "@nuxtjs/sentry": "5.0.1",
     "@nuxtjs/tailwindcss": "3.4.2",
     "nuxt": "2.14.12",
     "stylelint": "13.9.0",
