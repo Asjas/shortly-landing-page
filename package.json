@@ -9,7 +9,7 @@
     "@nuxtjs/pwa": "3.3.5",
     "@nuxtjs/sentry": "5.1.0",
     "@nuxtjs/tailwindcss": "4.1.3",
-    "nuxt": "2.15.6",
+    "nuxt": "2.15.7",
     "stylelint": "13.13.1",
     "stylelint-config-recommended": "5.0.0",
     "vue-session": "1.0.0"
